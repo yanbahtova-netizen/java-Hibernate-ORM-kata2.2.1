@@ -49,7 +49,7 @@ public class MainApp {
          System.out.println();
       }
 
-       System.out.println(userService.getUsersByCar("Ford", 1));
+       System.out.println(userService.getUsersByCar("Volkswagen", 2));
 
       context.close();
    }
